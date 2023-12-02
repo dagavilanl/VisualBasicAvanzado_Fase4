@@ -41,6 +41,15 @@ Partial Public Class Login
     Protected WithEvents ImgHeader As Global.System.Web.UI.WebControls.Image
 
     '''<summary>
+    '''Control BtnBack.
+    '''</summary>
+    '''<remarks>
+    '''Campo generado automáticamente.
+    '''Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+    '''</remarks>
+    Protected WithEvents BtnBack As Global.System.Web.UI.WebControls.Button
+
+    '''<summary>
     '''Control Label1.
     '''</summary>
     '''<remarks>

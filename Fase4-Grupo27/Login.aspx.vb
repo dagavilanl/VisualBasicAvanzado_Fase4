@@ -23,4 +23,8 @@
             MsgBox(“verifica que los campos este corresctamente digitados”)
         End If
     End Sub
+
+    Protected Sub BtnBack_Click(sender As Object, e As EventArgs) Handles BtnBack.Click
+        Response.Redirect("index.aspx")
+    End Sub
 End Class

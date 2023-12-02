@@ -50,33 +50,6 @@ Partial Public Class WebForm1
     Protected WithEvents Panel3 As Global.System.Web.UI.WebControls.Panel
 
     '''<summary>
-    '''Control MultiView1.
-    '''</summary>
-    '''<remarks>
-    '''Campo generado automáticamente.
-    '''Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
-    '''</remarks>
-    Protected WithEvents MultiView1 As Global.System.Web.UI.WebControls.MultiView
-
-    '''<summary>
-    '''Control View1.
-    '''</summary>
-    '''<remarks>
-    '''Campo generado automáticamente.
-    '''Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
-    '''</remarks>
-    Protected WithEvents View1 As Global.System.Web.UI.WebControls.View
-
-    '''<summary>
-    '''Control Label27.
-    '''</summary>
-    '''<remarks>
-    '''Campo generado automáticamente.
-    '''Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
-    '''</remarks>
-    Protected WithEvents Label27 As Global.System.Web.UI.WebControls.Label
-
-    '''<summary>
     '''Control BtnVideo.
     '''</summary>
     '''<remarks>
@@ -95,6 +68,15 @@ Partial Public Class WebForm1
     Protected WithEvents BtnPdf As Global.System.Web.UI.WebControls.Button
 
     '''<summary>
+    '''Control ButtonAudio.
+    '''</summary>
+    '''<remarks>
+    '''Campo generado automáticamente.
+    '''Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+    '''</remarks>
+    Protected WithEvents ButtonAudio As Global.System.Web.UI.WebControls.Button
+
+    '''<summary>
     '''Control BtnSigInfo.
     '''</summary>
     '''<remarks>
@@ -102,6 +84,24 @@ Partial Public Class WebForm1
     '''Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
     '''</remarks>
     Protected WithEvents BtnSigInfo As Global.System.Web.UI.WebControls.Button
+
+    '''<summary>
+    '''Control MultiView1.
+    '''</summary>
+    '''<remarks>
+    '''Campo generado automáticamente.
+    '''Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+    '''</remarks>
+    Protected WithEvents MultiView1 As Global.System.Web.UI.WebControls.MultiView
+
+    '''<summary>
+    '''Control View1.
+    '''</summary>
+    '''<remarks>
+    '''Campo generado automáticamente.
+    '''Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+    '''</remarks>
+    Protected WithEvents View1 As Global.System.Web.UI.WebControls.View
 
     '''<summary>
     '''Control View2.

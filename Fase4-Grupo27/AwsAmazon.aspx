@@ -20,6 +20,9 @@
                         <asp:View ID="View1" runat="server">
                             <br />
                             <br />
+			                <asp:Button ID="BtnBack" runat="server" Text="Regresar" class="btn btn-primary"/>
+                            <br />
+                            <br />
                             <asp:Label ID="Label27" runat="server" Font-Bold="True" Text="AWS AMAZON"></asp:Label>
                             <br />
                             <br />
@@ -33,9 +36,10 @@
                             <p > AWS también ofrece una capa gratuita que permite a los usuarios obtener experiencia práctica con AWS sin costo alguno durante 12 meses. La capa gratuita incluye 18 productos y servicios de forma gratuita dentro de ciertos límites de uso. Además, AWS ofrece un programa llamado AWS Skill Builder que proporciona acceso a más de 100 AWS Builder Labs que perfeccionan las habilidades en la nube rápidamente en un entorno aislado.</p>
                             <p > AWS Amazon es una plataforma líder en el mercado de servicios en la nube, con más de un millón de clientes activos en todo el mundo. AWS Amazon sigue innovando y lanzando nuevos servicios y características para satisfacer las demandas y expectativas de sus usuarios.</p>
                             <br />
-                            <br />
                             <asp:Button ID="BtnVideo" runat="server" Text="Video" class="btn btn-primary"/>
                             <asp:Button ID="BtnPdf" runat="server" Text="PDF" class="btn btn-primary"/>
+                            <asp:Button ID="BtnAudio" runat="server" class="btn btn-primary" Text="Escuchar Audio" />
+                            <asp:Button ID="BtnImage" runat="server" class="btn btn-primary" Text="Imagen" />
                             <asp:Button ID="BtnSigInfo" runat="server" Text="Iniciar Evaluacion" class="btn btn-primary"/>
                             <br />
                             <br />
@@ -208,6 +212,7 @@
             </asp:Panel>
         </div>
     </form>
+    <br />
     <br />
     <br />
     <br />

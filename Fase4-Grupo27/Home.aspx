@@ -12,9 +12,38 @@
     <form id="form1" runat="server">
         <div>
             <asp:Panel ID="Panel1" runat="server">
-                <asp:Image ID="ImgHeader" runat="server" ImageUrl="~/Images/Template/Header.png" />
+                <asp:Image ID="ImgHeader" runat="server" ImageUrl="~/Images/Template/Header.png"  Width="100%" />
             </asp:Panel>
-            <asp:Panel ID="Panel3" CssClass="text-center" runat="server" Height="366px" Width="1367px">
+            <asp:Panel ID="Panel3" CssClass="text-center" runat="server" Height="100%" Width="100%">
+
+
+                <div id="carouselExample" class="carousel slide" data-bs-ride="carousel" >
+                    <div class="carousel-indicators">
+    <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+    <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="1" aria-label="Slide 2"></button>
+    <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="2" aria-label="Slide 3"></button>
+  </div>
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+      <img src="/Images/001.jpg" class="d-block w-100" alt="...">
+    </div>
+    <div class="carousel-item">
+      <img src="/Images/002.jpg" class="d-block w-100" alt="...">
+    </div>
+    <div class="carousel-item">
+      <img src="/Images/003.jpg" class="d-block w-100" alt="...">
+    </div>
+  </div>
+  <button class="carousel-control-prev" type="button" data-bs-target="#carouselExample" data-bs-slide="prev">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="visually-hidden">Previous</span>
+  </button>
+  <button class="carousel-control-next" type="button" data-bs-target="#carouselExample" data-bs-slide="next">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="visually-hidden">Next</span>
+  </button>
+</div>
+
                 <br />
                 <asp:Panel ID="Panel4" runat="server" CssClass="card mt-4 p-4">
                 <asp:Label ID="Label3" runat="server" class="blockquote" Text="Bienvenido a la Universidad Nacional Abierta y a Distancia Unad, donde podrás aprender sobre diferentes temas de interés con apoyo multimedia. "></asp:Label>
@@ -35,7 +64,7 @@
                         <div class="card-body">
                             <asp:Label ID="Label7" runat="server" class="h1 card-body">Tensor Flow</asp:Label>
                             <br />
-                            <asp:Label ID="Label8" runat="server"  class="card-text">Texto corto descriptivo de Tensorflow</asp:Label>
+                            <asp:Label ID="Label8" runat="server"  class="card-text">Biblioteca de código abierto desarrollada por Google para realizar tareas de aprendizaje automático y aprendizaje profundo. Se utiliza para construir y entrenar modelos de machine learning, especialmente en el campo de las redes neuronales. TensorFlow proporciona una amplia gama de herramientas, bibliotecas y recursos para desarrolladores e investigadores que trabajan en proyectos de inteligencia artificial.</asp:Label>
                             <br />
                             <asp:button ID="BtnTF" runat="server" Text="2. Tensor Flow " class="btn btn-primary" type="button"/>
                         </div>
@@ -45,6 +74,7 @@
                             <asp:Label ID="Label11" runat="server" class="h1 card-body">AWS Amazon</asp:Label>
                             <br />
                             <asp:Label ID="Label12" runat="server"  class="card-text">AWS Amazon es una plataforma de nube que ofrece más de 200 servicios para diferentes necesidades de informática. Permite crear aplicaciones sofisticadas con flexibilidad, escalabilidad y fiabilidad. Tiene la infraestructura de nube más amplia, confiable y segura del mundo, y la comunidad más grande y dinámica de clientes y socios. Es líder en innovación y ofrece tecnologías nuevas y emergentes.</asp:Label>
+                            <br />
                             <br />
                             <asp:button ID="BtnAA" runat="server" Text="3. Aws Amazon " class="btn btn-primary" type="button"/>
                         </div>
@@ -91,7 +121,7 @@
             <br />
             <br />
             <asp:Panel ID="Panel2" runat="server">
-                <asp:Image ID="ImgFooter" runat="server" ImageUrl="~/Images/Template/Footer.png" />
+                <asp:Image ID="ImgFooter" runat="server" ImageUrl="~/Images/Template/Footer.png" width="100%" />
             </asp:Panel>
         </div>
     </form>

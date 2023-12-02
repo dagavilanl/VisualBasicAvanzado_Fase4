@@ -94,3 +94,36 @@ C:\Users\Jose Eliud Bernal\Documents\Carpeta Compartida\Fase4-Grupo27(1)\Fase4-G
 C:\Users\Jose Eliud Bernal\Documents\Carpeta Compartida\Fase4-Grupo27(1)\Fase4-Grupo27\Fase4-Grupo27\obj\Debug\Fase4-Grupo27.dll
 C:\Users\Jose Eliud Bernal\Documents\Carpeta Compartida\Fase4-Grupo27(1)\Fase4-Grupo27\Fase4-Grupo27\obj\Debug\Fase4-Grupo27.xml
 C:\Users\Jose Eliud Bernal\Documents\Carpeta Compartida\Fase4-Grupo27(1)\Fase4-Grupo27\Fase4-Grupo27\obj\Debug\Fase4-Grupo27.pdb
+C:\Users\crist\Downloads\Fase4-Grupo27\Fase4-Grupo27\bin\Fase4-Grupo27.dll.config
+C:\Users\crist\Downloads\Fase4-Grupo27\Fase4-Grupo27\bin\Fase4-Grupo27.dll
+C:\Users\crist\Downloads\Fase4-Grupo27\Fase4-Grupo27\bin\Fase4-Grupo27.pdb
+C:\Users\crist\Downloads\Fase4-Grupo27\Fase4-Grupo27\bin\Fase4-Grupo27.xml
+C:\Users\crist\Downloads\Fase4-Grupo27\Fase4-Grupo27\obj\Debug\Fase4-Grupo27.vbproj.AssemblyReference.cache
+C:\Users\crist\Downloads\Fase4-Grupo27\Fase4-Grupo27\obj\Debug\Fase4_Grupo27.Resources.resources
+C:\Users\crist\Downloads\Fase4-Grupo27\Fase4-Grupo27\obj\Debug\Fase4-Grupo27.vbproj.GenerateResource.cache
+C:\Users\crist\Downloads\Fase4-Grupo27\Fase4-Grupo27\obj\Debug\Fase4-Grupo27.vbproj.CoreCompileInputs.cache
+C:\Users\crist\Downloads\Fase4-Grupo27\Fase4-Grupo27\obj\Debug\Fase4-Grupo27.dll
+C:\Users\crist\Downloads\Fase4-Grupo27\Fase4-Grupo27\obj\Debug\Fase4-Grupo27.xml
+C:\Users\crist\Downloads\Fase4-Grupo27\Fase4-Grupo27\obj\Debug\Fase4-Grupo27.pdb
+C:\Users\Administrator\Desktop\Fase4-Grupo27\Fase4-Grupo27\bin\Fase4-Grupo27.dll.config
+C:\Users\Administrator\Desktop\Fase4-Grupo27\Fase4-Grupo27\bin\Fase4-Grupo27.dll
+C:\Users\Administrator\Desktop\Fase4-Grupo27\Fase4-Grupo27\bin\Fase4-Grupo27.pdb
+C:\Users\Administrator\Desktop\Fase4-Grupo27\Fase4-Grupo27\bin\Fase4-Grupo27.xml
+C:\Users\Administrator\Desktop\Fase4-Grupo27\Fase4-Grupo27\obj\Debug\Fase4-Grupo27.vbproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Fase4-Grupo27\Fase4-Grupo27\obj\Debug\Fase4_Grupo27.Resources.resources
+C:\Users\Administrator\Desktop\Fase4-Grupo27\Fase4-Grupo27\obj\Debug\Fase4-Grupo27.vbproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\Fase4-Grupo27\Fase4-Grupo27\obj\Debug\Fase4-Grupo27.vbproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Fase4-Grupo27\Fase4-Grupo27\obj\Debug\Fase4-Grupo27.dll
+C:\Users\Administrator\Desktop\Fase4-Grupo27\Fase4-Grupo27\obj\Debug\Fase4-Grupo27.xml
+C:\Users\Administrator\Desktop\Fase4-Grupo27\Fase4-Grupo27\obj\Debug\Fase4-Grupo27.pdb
+C:\Users\Jose Eliud Bernal\Documents\Carpeta Compartida\undecimo semestre\VS\Paso 4\Fase4-Grupo27\Fase4-Grupo27\Fase4-Grupo27\obj\Debug\Fase4-Grupo27.vbproj.AssemblyReference.cache
+C:\Users\Jose Eliud Bernal\Documents\Carpeta Compartida\undecimo semestre\VS\Paso 4\Fase4-Grupo27\Fase4-Grupo27\Fase4-Grupo27\obj\Debug\Fase4_Grupo27.Resources.resources
+C:\Users\Jose Eliud Bernal\Documents\Carpeta Compartida\undecimo semestre\VS\Paso 4\Fase4-Grupo27\Fase4-Grupo27\Fase4-Grupo27\obj\Debug\Fase4-Grupo27.vbproj.GenerateResource.cache
+C:\Users\Jose Eliud Bernal\Documents\Carpeta Compartida\undecimo semestre\VS\Paso 4\Fase4-Grupo27\Fase4-Grupo27\Fase4-Grupo27\obj\Debug\Fase4-Grupo27.vbproj.CoreCompileInputs.cache
+C:\Users\Jose Eliud Bernal\Documents\Carpeta Compartida\undecimo semestre\VS\Paso 4\Fase4-Grupo27\Fase4-Grupo27\Fase4-Grupo27\obj\Debug\Fase4-Grupo27.dll
+C:\Users\Jose Eliud Bernal\Documents\Carpeta Compartida\undecimo semestre\VS\Paso 4\Fase4-Grupo27\Fase4-Grupo27\Fase4-Grupo27\obj\Debug\Fase4-Grupo27.xml
+C:\Users\Jose Eliud Bernal\Documents\Carpeta Compartida\undecimo semestre\VS\Paso 4\Fase4-Grupo27\Fase4-Grupo27\Fase4-Grupo27\obj\Debug\Fase4-Grupo27.pdb
+C:\Users\Jose Eliud Bernal\Documents\Carpeta Compartida\undecimo semestre\VS\Paso 4\Fase4-Grupo27\Fase4-Grupo27\Fase4-Grupo27\bin\Fase4-Grupo27.dll.config
+C:\Users\Jose Eliud Bernal\Documents\Carpeta Compartida\undecimo semestre\VS\Paso 4\Fase4-Grupo27\Fase4-Grupo27\Fase4-Grupo27\bin\Fase4-Grupo27.dll
+C:\Users\Jose Eliud Bernal\Documents\Carpeta Compartida\undecimo semestre\VS\Paso 4\Fase4-Grupo27\Fase4-Grupo27\Fase4-Grupo27\bin\Fase4-Grupo27.pdb
+C:\Users\Jose Eliud Bernal\Documents\Carpeta Compartida\undecimo semestre\VS\Paso 4\Fase4-Grupo27\Fase4-Grupo27\Fase4-Grupo27\bin\Fase4-Grupo27.xml

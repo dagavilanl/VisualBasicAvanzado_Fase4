@@ -118,4 +118,8 @@
                 MsgBox("Error")
         End Select
     End Sub
+
+    Protected Sub ButtonAudio_Click(sender As Object, e As EventArgs) Handles ButtonAudio.Click
+        Response.Redirect("Audios_podcasts/5G/audioDWH.aspx")
+    End Sub
 End Class

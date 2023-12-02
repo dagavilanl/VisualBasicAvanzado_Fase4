@@ -68,6 +68,15 @@ Partial Public Class AwsAmazon
     Protected WithEvents View1 As Global.System.Web.UI.WebControls.View
 
     '''<summary>
+    '''Control BtnBack.
+    '''</summary>
+    '''<remarks>
+    '''Campo generado automáticamente.
+    '''Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+    '''</remarks>
+    Protected WithEvents BtnBack As Global.System.Web.UI.WebControls.Button
+
+    '''<summary>
     '''Control Label27.
     '''</summary>
     '''<remarks>
@@ -93,6 +102,24 @@ Partial Public Class AwsAmazon
     '''Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
     '''</remarks>
     Protected WithEvents BtnPdf As Global.System.Web.UI.WebControls.Button
+
+    '''<summary>
+    '''Control BtnAudio.
+    '''</summary>
+    '''<remarks>
+    '''Campo generado automáticamente.
+    '''Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+    '''</remarks>
+    Protected WithEvents BtnAudio As Global.System.Web.UI.WebControls.Button
+
+    '''<summary>
+    '''Control BtnImage.
+    '''</summary>
+    '''<remarks>
+    '''Campo generado automáticamente.
+    '''Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+    '''</remarks>
+    Protected WithEvents BtnImage As Global.System.Web.UI.WebControls.Button
 
     '''<summary>
     '''Control BtnSigInfo.

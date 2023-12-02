@@ -10,6 +10,7 @@
     End Sub
 
     Protected Sub BtnSign_Up_Click(sender As Object, e As EventArgs) Handles BtnSign_Up.Click
-        Response.Redirect("SignUp.aspx")
+        'Response.Redirect("SignUp.aspx")
+        MsgBox("Esta acción aún no esta disponible, se manejará base de datos en la proxima fase")
     End Sub
 End Class

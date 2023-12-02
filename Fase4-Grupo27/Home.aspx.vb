@@ -24,4 +24,8 @@
     Protected Sub Btn5G_Click(sender As Object, e As EventArgs) Handles Btn5G.Click
         Response.Redirect("5G.aspx")
     End Sub
+
+    Protected Sub BtnTF_Click(sender As Object, e As EventArgs) Handles BtnTF.Click
+        Response.Redirect("TensorFlow.aspx")
+    End Sub
 End Class

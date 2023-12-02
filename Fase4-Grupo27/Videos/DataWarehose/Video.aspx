@@ -12,23 +12,25 @@
     <form id="form1" runat="server">
         <div>
             <asp:Panel ID="Panel1" runat="server">
-                <asp:Image ID="ImgHeader" runat="server" ImageUrl="~/Images/Template/Header.png" />
+                <asp:Image ID="ImgHeader" runat="server" ImageUrl="~/Images/Template/Header.png" Width="100%"/>
+
             </asp:Panel>
             <br />
             <asp:Panel class="container" ID="Panel3" runat="server">
                 <asp:Button ID="BtnBack" runat="server" Text="Volver" CssClass="btn btn-primary" class="text-center"/>
                 <div class="container text-center">
-                    <iframe width="560" 
-                height="315" 
+                    <iframe width="1000" 
+                height="450" 
                 src="http://www.youtube.com/embed/jFsRdTcljeU" 
                 frameborder="0" 
                 allowfullscreen></iframe>                  
                     </div>
-            </asp:Panel>
+             </asp:Panel>
             <br />
             <asp:Panel ID="Panel2" runat="server">
-                <asp:Image ID="ImgFooter" runat="server" ImageUrl="~/Images/Template/Footer.png" />                    
+                <asp:Image ID="ImgFooter" runat="server" ImageUrl="~/Images/Template/Footer.png" Width="100%" />                    
             </asp:Panel>
+            
         </div>
     </form>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL" crossorigin="anonymous"></script>

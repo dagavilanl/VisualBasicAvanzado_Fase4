@@ -141,4 +141,16 @@
     Protected Sub BtnPdf_Click(sender As Object, e As EventArgs) Handles BtnPdf.Click
         Response.Redirect("Pdf/PdfAWS/PdfAWS.aspx")
     End Sub
+
+    Protected Sub BtnBack_Click(sender As Object, e As EventArgs) Handles BtnBack.Click
+        Response.Redirect("Home.aspx")
+    End Sub
+
+    Protected Sub BtnAudio_Click(sender As Object, e As EventArgs) Handles BtnAudio.Click
+        Response.Redirect("Audios_podcasts/AudioAWS/AudioAws.aspx")
+    End Sub
+
+    Protected Sub BtnImage_Click(sender As Object, e As EventArgs) Handles BtnImage.Click
+        Response.Redirect("Images/Aws/Img_Aws.aspx")
+    End Sub
 End Class

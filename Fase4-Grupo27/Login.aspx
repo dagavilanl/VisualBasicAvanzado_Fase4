@@ -14,6 +14,10 @@
             <asp:Panel ID="Panel1" runat="server">
                 <asp:Image ID="ImgHeader" runat="server" ImageUrl="~/Images/Template/Header.png" />
             </asp:Panel>
+            <br />
+            <div class="container">
+            <asp:button ID="BtnBack" runat="server" Text="Regresar" class="btn btn-primary" type="button" UseSubmitBehavior="False"/>
+            </div>
             <div class="container text-center" runat="server">
                 <br />
                 <asp:Label ID="Label1" runat="server" class="blockquote" Text="Bienvenido a la Universidad Nacional Abierta y a Distancia Unad, donde podrás aprender sobre diferentes temas de interés con apoyo multimedia. "></asp:Label>
@@ -38,6 +42,7 @@
                 </div>
                 <asp:button ID="BtnHome" runat="server" Text="Entrar" class="btn btn-primary" type="button"/>
                 </div>
+            <br />
             <asp:Panel ID="Panel2" runat="server" EnableViewState="True">
                 <asp:Image ID="ImgFooter" runat="server" ImageUrl="~/Images/Template/Footer.png" />
             </asp:Panel>

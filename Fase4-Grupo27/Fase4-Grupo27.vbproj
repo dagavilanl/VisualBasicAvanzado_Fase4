@@ -89,8 +89,20 @@
     <Content Include="5G.aspx" />
     <Content Include="Audios_podcasts\5G\audio.mp3" />
     <Content Include="Audios_podcasts\5G\audio5g.aspx" />
+    <Content Include="Audios_podcasts\5G\audioDWH.aspx" />
+    <Content Include="Audios_podcasts\AudioAWS\AudioAws.aspx" />
+    <Content Include="Audios_podcasts\AudioAWS\AudioAws.mp3" />
+    <Content Include="Audios_podcasts\DWH.mp3" />
+    <Content Include="Images\001.jpg" />
+    <Content Include="Images\002.jpg" />
+    <Content Include="Images\003.jpg" />
+    <Content Include="Images\004.jpg" />
     <Content Include="Images\5G\5G.jpeg" />
     <Content Include="Images\5G\Imagen.aspx" />
+    <Content Include="Images\Aws\AWS.png" />
+    <Content Include="Images\Aws\Img_Aws.aspx" />
+    <Content Include="Images\TensorFlow_logo.svg.png" />
+    <Content Include="TensorFlow.aspx" />
     <Content Include="Metadatos.aspx" />
     <Content Include="AwsAmazon.aspx" />
     <Content Include="Home.aspx" />
@@ -107,14 +119,19 @@
     <Content Include="NotasDWH\Nota 6.aspx" />
     <Content Include="NotasDWH\Nota 5.aspx" />
     <Content Include="NotasDWH\Nota 4.aspx" />
+    <Content Include="NotasTensor\TFNota1.aspx" />
+    <Content Include="NotasTensor\TFNota2.aspx" />
+    <Content Include="NotasTensor\TFNota3.aspx" />
     <Content Include="Pdf\Pdf5G\Revolucion5g.aspx" />
     <Content Include="Pdf\PdfAWS\PdfAWS.aspx" />
     <Content Include="Pdf\PdfMetadatos\PdfMetadatos.aspx" />
+    <Content Include="Pdf\PdfTS\PDFTensorFlow.aspx" />
     <Content Include="SignUp.aspx" />
     <Content Include="Videos\5G\video.aspx" />
     <Content Include="Videos\5G\video.mp4" />
     <Content Include="Videos\DataWarehose\Video.aspx" />
     <Content Include="Videos\Metadatos\Video.aspx" />
+    <Content Include="Videos\TensorFlow\VideoTF.aspx" />
     <Content Include="Videos\VideoAWS\AWS.mp4" />
     <Content Include="Videos\VideoAWS\Video.aspx" />
     <Content Include="Web.config" />
@@ -135,12 +152,40 @@
       <DependentUpon>audio5g.aspx</DependentUpon>
       <SubType>ASPXCodebehind</SubType>
     </Compile>
+    <Compile Include="Audios_podcasts\5G\audioDWH.aspx.designer.vb">
+      <DependentUpon>audioDWH.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Audios_podcasts\5G\audioDWH.aspx.vb">
+      <DependentUpon>audioDWH.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="Audios_podcasts\AudioAWS\AudioAws.aspx.designer.vb">
+      <DependentUpon>AudioAws.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Audios_podcasts\AudioAWS\AudioAws.aspx.vb">
+      <DependentUpon>AudioAws.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
     <Compile Include="Images\5G\Imagen.aspx.designer.vb">
       <DependentUpon>Imagen.aspx</DependentUpon>
     </Compile>
     <Compile Include="Images\5G\Imagen.aspx.vb">
       <DependentUpon>Imagen.aspx</DependentUpon>
       <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="Images\Aws\Img_Aws.aspx.designer.vb">
+      <DependentUpon>Img_Aws.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Images\Aws\Img_Aws.aspx.vb">
+      <DependentUpon>Img_Aws.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="TensorFlow.aspx.designer.vb">
+      <DependentUpon>TensorFlow.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="TensorFlow.aspx.vb">
+      <DependentUpon>TensorFlow.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
     </Compile>
     <Compile Include="Metadatos.aspx.designer.vb">
       <DependentUpon>Metadatos.aspx</DependentUpon>
@@ -259,6 +304,27 @@
       <DependentUpon>Nota 4.aspx</DependentUpon>
       <SubType>ASPXCodebehind</SubType>
     </Compile>
+    <Compile Include="NotasTensor\TFNota1.aspx.designer.vb">
+      <DependentUpon>TFNota1.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="NotasTensor\TFNota1.aspx.vb">
+      <DependentUpon>TFNota1.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="NotasTensor\TFNota2.aspx.designer.vb">
+      <DependentUpon>TFNota2.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="NotasTensor\TFNota2.aspx.vb">
+      <DependentUpon>TFNota2.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="NotasTensor\TFNota3.aspx.designer.vb">
+      <DependentUpon>TFNota3.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="NotasTensor\TFNota3.aspx.vb">
+      <DependentUpon>TFNota3.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
     <Compile Include="Pdf\Pdf5G\Revolucion5g.aspx.designer.vb">
       <DependentUpon>Revolucion5g.aspx</DependentUpon>
     </Compile>
@@ -279,6 +345,13 @@
     <Compile Include="Pdf\PdfMetadatos\PdfMetadatos.aspx.vb">
       <DependentUpon>PdfMetadatos.aspx</DependentUpon>
       <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="Pdf\PdfTS\PDFTensorFlow.aspx.designer.vb">
+      <DependentUpon>PDFTensorFlow.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Pdf\PdfTS\PDFTensorFlow.aspx.vb">
+      <DependentUpon>PDFTensorFlow.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
     </Compile>
     <Compile Include="SignUp.aspx.designer.vb">
       <DependentUpon>SignUp.aspx</DependentUpon>
@@ -307,6 +380,13 @@
     <Compile Include="Videos\Metadatos\Video.aspx.vb">
       <DependentUpon>Video.aspx</DependentUpon>
       <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="Videos\TensorFlow\VideoTF.aspx.designer.vb">
+      <DependentUpon>VideoTF.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Videos\TensorFlow\VideoTF.aspx.vb">
+      <DependentUpon>VideoTF.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
     </Compile>
     <Compile Include="Videos\VideoAWS\Video.aspx.designer.vb">
       <DependentUpon>Video.aspx</DependentUpon>
@@ -343,6 +423,7 @@
     </None>
     <Content Include="Pdf\PdfAWS\index.pdf" />
     <Content Include="Pdf\Pdf5G\Revolucion5G.pdf" />
+    <Content Include="Pdf\PdfTS\TensorFlow.pdf" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
@@ -378,7 +459,7 @@
           <AutoAssignPort>True</AutoAssignPort>
           <DevelopmentServerPort>59687</DevelopmentServerPort>
           <DevelopmentServerVPath>/</DevelopmentServerVPath>
-          <IISUrl>http://localhost:44308/</IISUrl>
+          <IISUrl>http://localhost:44310/</IISUrl>
           <NTLMAuthentication>False</NTLMAuthentication>
           <UseCustomServer>False</UseCustomServer>
           <CustomServerUrl>

@@ -20,7 +20,6 @@
                     <div class="container text-center"> 
                         <audio src="audio.mp3" controls=""/> 
                             Tu navegador no soporta el elemento audio. 
-                        </audio> 
                     </div> 
             </asp:Panel>
             <br />
